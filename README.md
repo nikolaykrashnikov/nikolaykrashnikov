@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Nik Krashnikov, Sr. Frontend developer
-- 👀 I’m interested in frontend/web3
-- 💞️ I’m looking to collaborate in some web3 project
 - 📫 How to reach me: @nkrashnikov(telegram) or krashnikov.nu@gmail.com
 
 <!---
