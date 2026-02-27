@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nik Krashnikov, Sr. Frontend developer
+- 👋 Hi, I’m Nik Krashnikov, Sr. Product Engineer
 - 📫 How to reach me: @nkrashnikov(telegram) or krashnikov.nu@gmail.com
 
 <!---
